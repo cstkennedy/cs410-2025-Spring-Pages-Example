@@ -1,3 +1,12 @@
-theme: minima
+# theme: minima
+# minima:
+  # skin: dark
+  
+# Thank you Stack Overflow
+# https://stackoverflow.com/a/78095218
+
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 minima:
   skin: dark
